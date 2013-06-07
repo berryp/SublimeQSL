@@ -61,7 +61,7 @@ resolve this issue. To do this:
 4. Follow the instructions in the `Manual Installtion` section of the Package Control
    [installation instructions](http://wbond.net/sublime_packages/package_control/installation).
 
-5. Follow installation steps 2 and 3 above.
+5. Follow steps 2 and 3 of the `Installation` steps, in the previous section.
 
 
 Usage
