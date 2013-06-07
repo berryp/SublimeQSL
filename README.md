@@ -45,16 +45,18 @@ Note: ``Super`` refers to either the ``CMD`` key in Mac OS X or the ``CTRL``
        and press ``Enter`` when ``SublimeQSL`` is highlighted.
 
 
+Alternative installation
+------------------------
+
 A number of people have reported problems installing packages with recent versions
 of Package Control. Installing the testing version of Package Control seems to
 resolve this issue. To do this:
 
-1. Open Sublime and click `Prefereces > Browse Packages` to open the packages folder.
-
-2. Browse up a level. You'll see a bunch of packages folders and a few others.
-
-3. Delete the entire `Package Control` folder from each of `Installed Packages`,
-   `Packages` and `Pristine Packages`.
+1. If you already have `Pacakge Control` installed:
+  1. Open Sublime and click `Prefereces > Browse Packages` to open the packages folder.
+  2. Browse up a level. You'll see a bunch of packages folders and a few others.
+  3. Delete the entire `Package Control` folder from each of `Installed Packages`,
+     `Packages` and `Pristine Packages`.
 
 4. Follow the instructions in the `Manual Installtion` section of the Package Control
    [installation instructions](http://wbond.net/sublime_packages/package_control/installation).
