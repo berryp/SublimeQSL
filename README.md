@@ -3,6 +3,17 @@ SublimeQSL
 
 A sublime Text 2 package for QSL.
 
+----
+
+**NOTE: Users have reported issues installing this package via Package Control in Sublime Text 3. Until this is fixed the suggested install method is as follows:**
+
+  1. download this repo as a zip file (there is a button in the sidebar at https://github.com/berryp/SublimeQSL).
+  2. Open the `Packages/User` folder (see steps in the manual installation section).
+  3. Extract the contents of the zip file into that folder - make sure that the contents were extracted into a folder called `SublimeQSL`.
+  4. Restart ST3 and this package should now be installed.
+
+----
+
 Currently supported features:
 -----------------------------
 
